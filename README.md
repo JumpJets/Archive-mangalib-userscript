@@ -11,3 +11,9 @@ This script will add new button on title pages at bottom-right with download ico
 Script will save zip archive with folders per chapters and optionally grouped by team and also `index.html` file as simple manga/manhwa reader with styles and buttons to navigate.
 
 To see progress, you may open console (`Ctrl`+`Shift`+`I`) and watch download logs.
+
+# Related
+
+You can find similar userscript for ranobelib.me
+
+* https://github.com/JumpJets/Archive-ranobelib-userscript
